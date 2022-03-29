@@ -1,4 +1,4 @@
-# JDBC_JPA
-Home Work1 & 2
+# Home Work1 & 2
+
 JPA
 SongCache
