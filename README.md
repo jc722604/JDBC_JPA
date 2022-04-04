@@ -1,6 +1,6 @@
 # Home Work week3 1 & 2
 
-JPA  &  SongCache  &  Spring Boot
+JPA  &  SongCache
 
 # Home Work week4 
 
